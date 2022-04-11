@@ -1,6 +1,6 @@
-Shellcoding
+SHELLCODING
 =======
-A collection of code just for fun and exploration.
+A collection of code for fun and exploration.
 -----------
 
 ### Spawning a Shell
