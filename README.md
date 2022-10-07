@@ -1,18 +1,16 @@
-SHELLCODING
+Payloads
 =======
-A collection of code for fun and exploration.
+A collection of payloads for exploration.
 -----------
 
-### Spawning a Shell
-1. Write shellcode first in high-level.
-2. Compile high-level code and disassemble it.
-3. Analyse Assembly code.
-4. Clean up Assembly, smaller and injectable.
-5. Extract opcodes to use as final shellcode
-
-Learning Resources:
+Shellcoding Resources:
 - Rootkits - Subverting the Windows Kernel by Greg Hoglund and Jamie Butler
 - The Shellcoder's Handbook by Chris Ansley, John Heasman, Felix Linder and Gerardo Richarte
+
+Bash Bunny Resources:
+- https://forums.hak5.org/topic/40971-info-tools/#comment-291329
+- https://wiki.bashbunny.com/#!index.md
+- https://docs.hak5.org/bash-bunny/
 
 Cheers,
 Cyd
